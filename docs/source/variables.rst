@@ -8,14 +8,18 @@ Here are listed all w3 variables:
 Agricultural Sector
 -------------------
 
-Truc
-Et oui
+Truec
+    Et oui car en ù
+    dafafafe
 
+Bidule
+    Eh non
+	 
 .. _indus:
 
 Industrial Sector
 -----------------
 
-Prout
+:Prout: sa def 2
 
 Alors en fait nnon
